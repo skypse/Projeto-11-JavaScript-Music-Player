@@ -1,4 +1,6 @@
 # 🎵 Music Player
+https://github.com/skypse/Projeto-11-JavaScript-Music-Player/assets/97822775/4b9479e1-7d53-4985-8fda-f552058a772c
+
 Um player de música simples construído com HTML, CSS e JavaScript. Este projeto é um player de música básico que permite reproduzir músicas, avançar para a próxima música, voltar para a música anterior, controlar o volume e exibir informações sobre a música atualmente reproduzida.
 
 ## ⚙️ Funcionalidades Principais
